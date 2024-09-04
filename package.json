@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+ "homepage": "https://fazeen123.github.io/FRUITEES-WEBSITE/",
   "scripts": {
     "dev": "vite",
     "predeploy":"npm run build",
