@@ -74,11 +74,10 @@ const Services = () => {
               />
             </div>
             <p>Click contact button for pre reservation</p>
-            <button className="contact-btn">
-              {" "}
+            <button className="contact-btn">              
               <Link to="/Contact" className="contact-btn-link">
                 Contact
-              </Link>{" "}
+              </Link>
             </button>
           </div>
         </div>
